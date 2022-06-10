@@ -3,7 +3,7 @@ Problem Statement :
 The main goal of this project to predict the health insurance premium for a person based on their health conditions. This can assist a person in concentrating on the health side of an insurance policy rather than the ineffective part.
 
 # DATASET:
-The dataset is taken from Kaggle site. Yo can download the dataset from :https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction
+The dataset is taken from Kaggle site. You can download the dataset from :https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction
 
 # APPROACH :
 Data is collected from kaggle site. All the required tasks to prepare the data for model buliding such as data cleaning, pre-processing, data exploration,visualisation were done.
